@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Cameron 👨‍💻
 
-<!--
-**nucks/nucks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My closest friends call me Nucks 👊
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's a short history of what I've been working on the past few years:
+
+**2017-2018**: I worked with a great team to give SMB's access to data like never before at [Grow.com](https://grow.com). <br/>
+**2018-2020**: I co-founded a SaaS startup, [Unbird](https://unbird.com), and led a small team to create a tool for product managers to analyze feedback so they could know what to build, better understand their customers, and have data to back up their decisions. <br/>
+**2020**: I'm working with an amazing team to build the world's best no-code platform—[Adalo](https://adalo.com). Check it out! <br/>
+
+*And the best is yet to come.*
+
+🌍 &nbsp; You can find me elsewhere: 
+- Sharing what I learn at [Nucks.co](https://nucks.co) ✍️  
+- Posting updates on [LinkedIn](https://linkedin.com/in/nucks) 🏆  
+- Sometimes giving thoughts on [Twitter](https://twitter.com/camnuckols) ©  
