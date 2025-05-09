@@ -10,7 +10,7 @@ Here's a short history of what I've been working on the past few years:
 **2018-2020**: I co-founded a SaaS startup, [Unbird](https://unbird.com), and led a small team to create a tool for product managers to analyze feedback so they could know what to build, better understand their customers, and have data to back up their decisions. <br/>
 **2020-2023**: I worked with an amazing team to build one of the world's top no-code platforms—[Adalo](https://adalo.com?ref=nucks-github).<br/>
 **2023**: I built [Survey](https://deciphe.com?ref=nucks-github) (acquired & rebranded).<br/>
-**2024-current**: I'm building [Deformity](https://deformity.ai?ref=github), where you can create powerful free forms in seconds.<br/>
+**2024-current**: I'm building [Deformity](https://deformity.ai?ref=github), a free Formless alternative, where you can create powerful forms in seconds.<br/>
 
 *And the best is yet to come.*
 
